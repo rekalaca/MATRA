@@ -1,0 +1,54 @@
+body{
+    background-image: url('kepek/erdo.jpg');
+    color: #004400;
+    font-family: "Mouse Memoirs";
+}   
+p{ font-weight: bold;
+}
+p.sorkizart{
+    text-align: justify;
+    margin: 0px, 50px;
+}
+h1,h2{
+    text-align: center;
+}
+span{
+    font-weight: normal;
+}
+
+a{
+    color: #004400   ;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+}
+img.tablkep{
+    width: 150px;
+    height: 120px;
+}
+table{
+    margin: auto;
+}
+table.araktabl{
+    border: 1px solid green;
+    padding: 8px;
+    width: 60%;
+
+}
+.kozep{
+    text-align: center;
+}
+.jobb{
+    text-align: center;
+}
+#kirkep{
+    width: 160px;
+    float: right;
+}
+hr{
+  border-width: 3px;  
+  border-color: #004400;  
+  max-width: 50%;
+ 
+}
